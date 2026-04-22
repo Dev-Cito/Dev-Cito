@@ -25,13 +25,12 @@ I build scalable web applications, craft intuitive user experiences, and optimiz
 
 <h2 align="left">Tech Stack & Tools</h2>
 
-###
-
 <div align="left">
+
   <!-- Core Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"/>
   <img width="12" />
-  
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"/>
   <img width="12" />
 
@@ -39,7 +38,7 @@ I build scalable web applications, craft intuitive user experiences, and optimiz
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"/>
   <img width="12" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="tailwind logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="tailwindcss logo"/>
   <img width="12" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"/>
@@ -56,28 +55,37 @@ I build scalable web applications, craft intuitive user experiences, and optimiz
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"/>
   <img width="12" />
 
+  <!-- Drizzle ORM -->
+  <img src="https://cdn.simpleicons.org/drizzle/00E599" height="40" alt="drizzle orm logo"/>
+  <img width="12" />
+
+  <!-- Authentication -->
+  <img src="https://cdn.simpleicons.org/auth0/EB5424" height="40" alt="authentication logo"/>
+  <img width="12" />
+
+  <!-- UI Libraries -->
+  <img src="https://cdn.simpleicons.org/shadcnui/000000" height="40" alt="shadcn ui logo"/>
+  <img width="12" />
+
+  <!-- Refine -->
+  <img src="https://cdn.simpleicons.org/refine/7C3AED" height="40" alt="refine logo"/>
+  <img width="12" />
+
+  <!-- API Testing -->
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"/>
+  <img width="12" />
+
+  <img src="https://cdn.simpleicons.org/thunderstore/23A55A" height="40" alt="thunder client logo"/>
+  <img width="12" />
+
+  <!-- Code Review -->
+  <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="coderabbit/github logo"/>
+  <img width="12" />
+
   <!-- DevOps -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"/>
   <img width="12" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"/>
-  <img width="12" />
+
 </div>
-
-###
-
-<h2 align="left">Tools & Frameworks I Work With</h2>
-
-###
-
-<p align="left">
-🔐 <strong>Better Auth</strong> → Complex authentication flows <br>
-⚙️ <strong>Express.js</strong> → Flexible, battle-tested backend development <br>
-🛡️ <strong>TypeScript</strong> → End-to-end type safety <br>
-🗄️ <strong>PostgreSQL + Drizzle ORM</strong> → Reliable and type-safe database modeling <br>
-🎨 <strong>Tailwind CSS + Shadcn/UI</strong> → Rapid, beautiful interfaces <br>
-📊 <strong>Refine Core</strong> → Building internal tools & admin dashboards <br>
-🤖 <strong>Refine AI Workflows</strong> → Faster production-ready development <br>
-🔍 <strong>CodeRabbit</strong> → AI-powered code reviews for cleaner code <br>
-🧪 <strong>Postman & Thunder Client</strong> → API testing and development
-</p>
