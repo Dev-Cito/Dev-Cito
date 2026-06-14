@@ -96,7 +96,7 @@
 | 🎓 Pruthvi Education | Website for an educational institution guiding students for MBBS abroad | React, Node.js, CSS | [Live](https://pruthvieducation.com/) |
 | ⛸️ BDSSA | Official website for Bengaluru District Speed Skating Association | HTML, CSS, JS | [Live](https://bengaluru-district-speed-skating-association-bdssa.pages.dev/) |
 | 🏢 Mission Club | Professional web presence for Mission Club | React, CSS | [Live](https://missionclub.in/) |
-| 🔐 Auth System | Authentication system with JWT | TypeScript, Node.js | [Repo](https://github.com/Dev-Cito/auth-system) |
+| 🔐 Auth System | Authentication system with JWT | TypeScript, Node.js | [Live](https://auth-system-sand-omega.vercel.app/login)
 
 ---
 
