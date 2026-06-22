@@ -97,9 +97,9 @@
 | ⛸️ BDSSA | Official website for Bengaluru District Speed Skating Association | HTML, CSS, JS | [Live](https://bengaluru-district-speed-skating-association-bdssa.pages.dev/) |
 | 🏢 Mission Club | Professional web presence for Mission Club | React, CSS | [Live](https://missionclub.in/) |
 | 🔐 Auth System | Authentication system with JWT | TypeScript, NestJS, Next.js | [Live](https://auth-system-sand-omega.vercel.app/login) |
-| 📝 Blog API | Production-ready blog platform with JWT auth, refresh token rotation, TypeORM migrations | NestJS, Next.js, PostgreSQL, TypeScript | [Live](https://blog-api-nine-chi.vercel.app) |
+| 📝 Blog API | Production-ready blog platform with JWT auth, TypeORM migrations | NestJS, Next.js, PostgreSQL, TypeScript | [Live](https://blog-api-nine-chi.vercel.app) |
+| 📁 FileVault | Public file storage platform — upload, browse & share images/docs. Public gallery, admin roles, Supabase Storage CDN | NestJS, Next.js, Supabase, PostgreSQL, Sharp, TypeScript | [Live](https://file-upload-service-chi.vercel.app) |
 | 🌍 AROH Global Exports | International export company website with multilingual product catalogue and B2B UI | React, Tailwind CSS, Node.js | [Live](https://arohglobalexport.com/) |
-
 ---
 
 ### 🏆 Certifications
