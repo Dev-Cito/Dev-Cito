@@ -18,8 +18,7 @@
 
 ### 🙋‍♂️ About Me
 
-- 🔭 I build scalable web applications using the **PERN stack** (PostgreSQL, Express, React, Node.js)
-- 🎨 I combine backend logic with clean, intuitive **UI/UX design**
+- 🔭 I build scalable web applications using the **PERN stack** and **NestJS** (PostgreSQL, Express/NestJS, React, Node.js)- 🎨 I combine backend logic with clean, intuitive **UI/UX design**
 - 🌍 Based in **Kigali, Rwanda** — open to remote opportunities worldwide
 - 🚀 Building, breaking, and improving products since **2021**
 - 🤖 Currently exploring **AI integrations, DevOps workflows & scalable architectures**
@@ -50,6 +49,7 @@
 ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
 ![Sharp](https://img.shields.io/badge/Sharp-99CC00?style=for-the-badge&logo=sharp&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 
 #### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -71,6 +71,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white)
+![Upstash](https://img.shields.io/badge/Upstash-00E9A3?style=for-the-badge&logo=upstash&logoColor=black)
 
 #### 🤖 AI & Integrations
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
@@ -111,6 +112,7 @@
 | 📝 Blog API | Production-ready blog platform with JWT auth, TypeORM migrations | NestJS, Next.js, PostgreSQL, TypeScript | [Live](https://blog-api-nine-chi.vercel.app) |
 | 📁 FileVault | Public file storage platform — upload, browse & share images/docs. Public gallery, admin roles, Supabase Storage CDN | NestJS, Next.js, Supabase, PostgreSQL, Sharp, TypeScript | [Live](https://file-upload-service-chi.vercel.app) |
 | 🌍 AROH Global Exports | International export company website with multilingual product catalogue and B2B UI | React, Tailwind CSS, Node.js | [Live](https://arohglobalexport.com/) |
+| 💬 CITChat | Realtime chat platform — rooms, WebSockets, online presence, typing indicators, emoji picker | NestJS, Next.js, Socket.io, Redis, PostgreSQL, TypeScript | [Live](https://citchat.vercel.app) |
 ---
 
 ### 🏆 Certifications
