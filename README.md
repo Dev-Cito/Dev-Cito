@@ -50,6 +50,10 @@
 ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
 ![Sharp](https://img.shields.io/badge/Sharp-99CC00?style=for-the-badge&logo=sharp&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![Motion](https://img.shields.io/badge/Motion-000000?style=for-the-badge&logo=framer&logoColor=white)
+
+#### 💳 Payments
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
 
 #### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -113,6 +117,7 @@
 | 📁 FileVault | Public file storage platform — upload, browse & share images/docs. Public gallery, admin roles, Supabase Storage CDN | NestJS, Next.js, Supabase, PostgreSQL, Sharp, TypeScript | [Live](https://file-upload-service-chi.vercel.app) |
 | 🌍 AROH Global Exports | International export company website with multilingual product catalogue and B2B UI | React, Tailwind CSS, Node.js | [Live](https://arohglobalexport.com/) |
 | 💬 CITChat | Realtime chat platform — rooms, WebSockets, online presence, typing indicators, emoji picker | NestJS, Next.js, Socket.io, Redis, PostgreSQL, TypeScript | [Live](https://citchat.vercel.app) |
+| 🛍️ Ku'isoko | Full-stack e-commerce storefront with Stripe Checkout, idempotent webhooks, order fulfillment & stock management. Animated "Voltage" theme | NestJS, Next.js, Stripe, PostgreSQL, Supabase, Zustand, TypeScript | [Live](https://ku-isoko-shop.vercel.app) |
 ---
 
 ### 🏆 Certifications
