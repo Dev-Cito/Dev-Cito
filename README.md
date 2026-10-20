@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 I'm Francois Cito Mpangirwa</h1>
+<h1 align="center">Hey 👋 I'm Francois Mpangirwa</h1>
 
 <h3 align="center">Full Stack Developer · UI/UX Designer · DevOps Enthusiast · Rwanda 🇷🇼</h3>
 
