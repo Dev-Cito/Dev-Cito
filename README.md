@@ -18,7 +18,8 @@
 
 ### 🙋‍♂️ About Me
 
-- 🔭 I build scalable web applications using the **PERN stack** and **NestJS** (PostgreSQL, Express/NestJS, React, Node.js)- 🎨 I combine backend logic with clean, intuitive **UI/UX design**
+- 🔭 I build scalable web applications using the **PERN stack** and **NestJS** (PostgreSQL, Express/NestJS, React, Node.js)
+- 🎨 I combine backend logic with clean, intuitive **UI/UX design**
 - 🌍 Based in **Kigali, Rwanda** — open to remote opportunities worldwide
 - 🚀 Building, breaking, and improving products since **2021**
 - 🤖 Currently exploring **AI integrations, DevOps workflows & scalable architectures**
@@ -52,6 +53,11 @@
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 ![Motion](https://img.shields.io/badge/Motion-000000?style=for-the-badge&logo=framer&logoColor=white)
 
+#### 🔗 APIs
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Apollo GraphQL](https://img.shields.io/badge/Apollo%20GraphQL-311C87?style=for-the-badge&logo=apollo-graphql&logoColor=white)
+![REST](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+
 #### 💳 Payments
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
 
@@ -80,6 +86,7 @@
 #### 🤖 AI & Integrations
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude_AI-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
 
 #### 🔧 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -118,6 +125,7 @@
 | 🌍 AROH Global Exports | International export company website with multilingual product catalogue and B2B UI | React, Tailwind CSS, Node.js | [Live](https://arohglobalexport.com/) |
 | 💬 CITChat | Realtime chat platform — rooms, WebSockets, online presence, typing indicators, emoji picker | NestJS, Next.js, Socket.io, Redis, PostgreSQL, TypeScript | [Live](https://citchat.vercel.app) |
 | 🛍️ Ku'isoko | Full-stack e-commerce storefront with Stripe Checkout, idempotent webhooks, order fulfillment & stock management. Animated "Voltage" theme | NestJS, Next.js, Stripe, PostgreSQL, Supabase, Zustand, TypeScript | [Live](https://ku-isoko-shop.vercel.app) |
+| 🗣️ Baraza | Real-time forum **GraphQL API** — code-first schema, DataLoader solving N+1 (24→3 SQL queries), live subscriptions over WebSockets, JWT auth on HTTP & WS | NestJS, GraphQL, Apollo Server, graphql-ws, DataLoader, PostgreSQL, TypeScript | [Code](https://github.com/Dev-Cito/baraza) |
 ---
 
 ### 🏆 Certifications
