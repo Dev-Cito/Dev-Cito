@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋 I'm Francois Mpangirwa</h1>
 
-<h3 align="center">Full Stack Developer · UI/UX Designer · DevOps Enthusiast · Rwanda 🇷🇼</h3>
+<h3 align="center">Software Engineer · Web Developper · UI/UX Designer</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/francois-mpangirwa" target="_blank">
